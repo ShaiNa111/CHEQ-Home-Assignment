@@ -282,7 +282,7 @@ CHEQ-Home-Assignment/
 └── data/
     └── churn.csv # Downloaded by setup_data.py
 ```
-📄 **[One-Page Design Document (PDF)](./docs/[churn_mcp_design.pdf](docs/churn_mcp_design.pdf)**
+📄 **[One-Page Design Document (PDF)](./docs/[churn_mcp_design.pdf)**
 ---
 
 ## Architecture Decision: SQL

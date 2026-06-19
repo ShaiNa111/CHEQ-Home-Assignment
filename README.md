@@ -1,7 +1,7 @@
 # Customer Churn Analytics — MCP Server
 
 > Ask natural-language questions about the Telco Customer Churn dataset and get accurate,
-> SQL-backed answers — directly inside Claude Code or Codex.
+> SQL-backed answers directly inside Claude Code.
 
 ---
 

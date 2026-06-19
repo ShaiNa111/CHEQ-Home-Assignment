@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__churn-analytics__get_schema",
+      "mcp__churn-analytics__get_sample_rows",
+      "mcp__churn-analytics__query_sql",
+      "mcp__churn-analytics__get_churn_summary",
+      "mcp__churn-analytics__get_column_distribution",
+      "mcp__churn-analytics__ask_question",
+      "Bash(python *)",
+      "Bash(python3 *)"
+    ]
+  }
+}

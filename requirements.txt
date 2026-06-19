@@ -1,0 +1,8 @@
+mcp>=1.0.0
+duckdb>=0.10.0
+pandas>=2.0.0
+datasets>=2.0.0        # required — used by setup_data.py to download the dataset from Hugging Face
+
+# No additional package needed for the ask_question tool — it calls Ollama's
+# local HTTP API directly via Python's built-in urllib. Just install Ollama
+# itself (https://ollama.com) and pull a model — see README.
